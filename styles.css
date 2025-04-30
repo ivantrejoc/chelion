@@ -292,7 +292,8 @@ body {
 
 /* HERO */
 .hero {
-  background: linear-gradient(to bottom, #3a3a3a, #dcdcdc);
+  background: url("../assets/img/energy-storage-system-scaled.jpg") no-repeat
+    center center;
   color: white;
   display: flex;
   align-items: center;
